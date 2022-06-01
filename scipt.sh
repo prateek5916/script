@@ -1,6 +1,6 @@
 #!/bin/bash
 export ACCESS_TOKEN=asdfghadksabdvjasdvashdjkl
-export BUILDKITE_COMMIT=qwerasdbksahvdjdsajtyuiop
+export BUILDKITE_COMMIT=qsdcgyjn
 
  curl \
         --header "Authorization: token $ACCESS_TOKEN" \
