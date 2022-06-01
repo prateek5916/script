@@ -1,5 +1,5 @@
 #!/bin/bash
-export ACCESS_TOKEN=asdfghadksabdvjasdvashdjkl
+export ACCESS_TOKEN=assabdvjasdvashdjkl
 export BUILDKITE_COMMIT=qsdcgyjn
 
  curl \
