@@ -1,6 +1,6 @@
 #!/bin/bash
-export GITHUB_MY_APP_DEPLOYMENT_ACCESS_TOKEN=asdfghjkl
-export BUILDKITE_COMMIT=qwertyuiop
+export GITHUB_MY_APP_DEPLOYMENT_ACCESS_TOKEN=asdfghadksabdvjasdvashdjkl
+export BUILDKITE_COMMIT=qwerasdbksahvdjdsajtyuiop
 
  curl \
         --header "Authorization: token $GITHUB_MY_APP_DEPLOYMENT_ACCESS_TOKEN" \
