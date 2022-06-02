@@ -5,6 +5,6 @@ export BUILDKITE_COMMIT=qsdcgyjn
 
 echo $ACCESS_TOKEN
  curl \
-        --header "Authorization: token $ACCESS_TOKEN" \
+        --header "Authorization: token $$ACCESS_TOKEN" \
         --data "{\"ref\": \"$BUILDKITE_COMMIT\"}" \
    
